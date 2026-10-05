@@ -2,6 +2,11 @@
 #include <iostream>
 #include <iomanip>
 
+/**************************************************
+ * Mã sinh viên: 202419074
+ * Họ tên: Vũ Thành Lâm
+ **************************************************/
+
 // Constructor
 Payroll::Payroll(const std::string& period)
     : period(period)
