@@ -7,6 +7,11 @@
 #include <string>
 #include <vector>
 
+/**************************************************
+ * Mã sinh viên: 202419074
+ * Họ tên: Vũ Thành Lâm
+ **************************************************/
+
 class Payroll {
 private:
     std::string period;
