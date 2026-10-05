@@ -3,6 +3,11 @@
 
 #include "Employee.h"
 
+/**************************************************
+ * Mã sinh viên: 202419074
+ * Họ tên: Vũ Thành Lâm
+ **************************************************/
+
 class SalesEmployee : public Employee {
 private:
     double baseSalary;
