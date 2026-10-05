@@ -4,8 +4,8 @@
 #include <stdexcept>
 
 /**************************************************
- * Mã sinh viên: [ĐIỀN MÃ SINH VIÊN]
- * Họ tên:      [ĐIỀN HỌ TÊN]
+ * Mã sinh viên: 202419074
+ * Họ tên: Vũ Thành Lâm
  **************************************************/
 
 // Constructor rút gọn
